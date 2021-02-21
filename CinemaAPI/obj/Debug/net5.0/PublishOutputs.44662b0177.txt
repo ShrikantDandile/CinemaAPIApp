@@ -1,0 +1,11 @@
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\CinemaAPI.exe
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\appsettings.json
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\CinemaAPI.dll
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\CinemaAPI.deps.json
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\CinemaAPI.runtimeconfig.json
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\CinemaAPI.pdb
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shrik\source\repos\CinemaAPI\CinemaAPI\obj\Debug\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
